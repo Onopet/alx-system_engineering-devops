@@ -1,1 +1,1 @@
- This script will show your current working directory code 
+ This script explains how to show your working directory 
