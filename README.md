@@ -1,1 +1,1 @@
-This repository explains some basic shell scripting
+my first initial commit
